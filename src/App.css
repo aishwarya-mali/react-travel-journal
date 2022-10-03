@@ -6,6 +6,15 @@
 
 body{
     font-family: 'Inter', sans-serif;
+    max-width: 600px;
+    margin: 10px auto;
+    background: #eee;
+    padding: 0 10px;
+}
+
+section{
+    padding: 40px 20px;
+    background: #fff;
 }
 
 header{
@@ -23,4 +32,61 @@ header > div{
     letter-spacing: 0.75px;
     color: #FFFFFF;
     margin-left: 10px;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.card > img {
+    width: 130px;
+    height: 170px;
+    border-radius: 10px;
+}
+
+.card--info{
+    padding-left: 20px;
+    color: #2B283A;
+}
+
+.card--header{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card--city{
+    font-family: 'Inter';
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-left: 3px;
+}
+
+.card--gmap{
+    font-weight: 400;
+    font-size: 12px;
+    text-decoration-line: underline;
+    color: #918E9B;
+    margin-left: 9px;
+}
+
+.card .card--info > h1{
+    font-weight: 700;
+    font-size: 25px;
+    margin: 5px 0 10px 0;
+}
+
+.card .card--info > h5{
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.card .card--info > p{
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
 }
