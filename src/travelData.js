@@ -1,4 +1,4 @@
-export default [
+const data = [
     {
         title: "Mount Fuji",
         location: "Japan",
@@ -27,3 +27,5 @@ export default [
         imageUrl: "https://source.unsplash.com/3PeSjpLVtLg"
     }
 ]
+
+export default data;
