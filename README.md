@@ -13,7 +13,7 @@ https://atravel-journal.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/aishwarya-mali/DigitalBusinessCard.git
+  git clone https://github.com/aishwarya-mali/react-travel-journal.git
 ```
 
 Go to the project directory
