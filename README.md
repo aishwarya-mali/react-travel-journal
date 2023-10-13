@@ -8,28 +8,29 @@ This is a Travel Journal which is a Scrimba Project built with React to study pr
 https://atravel-journal.netlify.app/
 
 
-## Run Locally
+## Local Development Setup
 
-Clone the project
+Steps to run the site locally for development or curiosity
+
+1. Fork and clone the repository
+
+   Follow [these steps](https://docs.github.com/en/get-started/quickstart/fork-a-repo) to create a fork of this repository and clone it to your local machine.
+
+3. Go to the project directory
 
 ```bash
-  git clone https://github.com/aishwarya-mali/react-travel-journal.git
+  cd my-project
 ```
 
-Go to the project directory
-
-```bash
-  cd project-name
-```
-
-Install dependencies
+3. Install dependencies
 
 ```bash
   npm install
 ```
 
-Start the server
+4. Start the server
 
 ```bash
   npm run start
 ```
+
