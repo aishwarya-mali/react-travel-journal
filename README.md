@@ -1,7 +1,7 @@
 
 # Travel Journal
 
-This is a Travel Journal which is Scrimba Project built with React to study props.
+This is a Travel Journal which is a Scrimba Project built with React to study props.
 
 ## Demo
 
